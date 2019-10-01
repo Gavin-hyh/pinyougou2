@@ -41,4 +41,7 @@ public class BrandController {
 			return new Result(false, "增加失败");
 		}
 	}
+	public void test(){
+
+	}
 }
